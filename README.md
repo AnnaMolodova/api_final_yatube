@@ -51,3 +51,5 @@ Cоздать и активировать виртуальное окружен�
 
 Получение списка доступных сообществ
 > GET api/v1/groups/
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
