@@ -1,5 +1,6 @@
 from rest_framework import filters
-from rest_framework.viewsets import ModelViewSet, ReadOnlyModelViewSet, GenericViewSet
+from rest_framework.viewsets import (ModelViewSet, ReadOnlyModelViewSet,
+                                     GenericViewSet)
 from rest_framework.mixins import CreateModelMixin, ListModelMixin
 from rest_framework.generics import get_object_or_404
 from rest_framework.pagination import LimitOffsetPagination
